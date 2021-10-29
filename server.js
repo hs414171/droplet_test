@@ -7,5 +7,5 @@ app.get('/data', (req, res)=>{
 })
 
 app.listen(PORT, ()=>{
-    console.log(`Server Started at port ${port}`)
+    console.log(`Server Started at port ${PORT}`)
 })
